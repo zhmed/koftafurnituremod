@@ -1,4 +1,4 @@
-# koftafurnituremod
+# Kofta Furniture Mod
 Welcome to Kofta Furniture mod for minecraft!
 If you have any bug reports, report them in the issues area
 
