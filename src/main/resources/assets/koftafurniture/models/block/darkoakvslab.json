@@ -1,0 +1,9 @@
+{
+  "parent": "koftafurniture:custom/dark_oak_vslab",
+  "textures": {
+    "all": "koftafurniture:block/dark_oak_planks",
+    "particle": "koftafurniture:block/dark_oak_planks",
+    "0": "koftafurniture:block/dark_oak_planks"
+  },
+  "render_type": "cutout"
+}

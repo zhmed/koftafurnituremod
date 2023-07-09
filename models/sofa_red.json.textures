@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dark_oak_planks",
+        "2": "stripped_dark_oak_log",
+        "16": "darkoak",
+        "1_6": "red_wool"
+      },
+      "name": "default"
+    }
+  }
+}

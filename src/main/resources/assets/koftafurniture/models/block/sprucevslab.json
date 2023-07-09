@@ -1,0 +1,9 @@
+{
+  "parent": "koftafurniture:custom/spruce_vslab",
+  "textures": {
+    "all": "koftafurniture:block/spruce_planks",
+    "particle": "koftafurniture:block/spruce_planks",
+    "0": "koftafurniture:block/spruce_planks"
+  },
+  "render_type": "solid"
+}

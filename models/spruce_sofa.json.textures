@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "spruce_planks",
+        "2": "stripped_spruce_log",
+        "1_6": "red_wool",
+        "16": "spruce"
+      },
+      "name": "default"
+    }
+  }
+}

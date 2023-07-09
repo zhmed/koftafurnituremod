@@ -1,0 +1,14 @@
+{
+  "parent": "koftafurniture:custom/acacia_bed",
+  "textures": {
+    "all": "koftafurniture:block/acacia_planks",
+    "particle": "koftafurniture:block/dark_oak_planks",
+    "0": "koftafurniture:block/acacia_planks",
+    "1": "koftafurniture:block/acacia_log",
+    "2": "koftafurniture:block/stripped_acacia_log",
+    "4": "koftafurniture:block/red",
+    "5": "koftafurniture:block/bedpillow",
+    "missing": "koftafurniture:block/"
+  },
+  "render_type": "solid"
+}

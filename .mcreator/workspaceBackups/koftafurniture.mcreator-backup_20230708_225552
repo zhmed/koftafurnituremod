@@ -1,0 +1,335 @@
+{
+  "mod_elements": [
+    {
+      "name": "Darkoaktable",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkoaktable",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/table/block/DarkoaktableBlock.java",
+          "src/main/resources/assets/koftafurniture/blockstates/darkoaktable.json",
+          "src/main/resources/assets/koftafurniture/models/block/darkoaktable.json",
+          "src/main/resources/assets/koftafurniture/models/item/darkoaktable.json"
+        ]
+      }
+    },
+    {
+      "name": "Darkoakbed",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkoakbed",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/koftafurniture/models/item/darkoakbed.json",
+          "src/main/resources/assets/koftafurniture/blockstates/darkoakbed.json",
+          "src/main/java/net/mcreator/table/block/DarkoakbedBlock.java",
+          "src/main/resources/assets/koftafurniture/models/block/darkoakbed.json"
+        ]
+      }
+    },
+    {
+      "name": "Oaktable",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oaktable",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/koftafurniture/models/item/oaktable.json",
+          "src/main/resources/assets/koftafurniture/blockstates/oaktable.json",
+          "src/main/resources/assets/koftafurniture/models/block/oaktable.json",
+          "src/main/java/net/mcreator/table/block/OaktableBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Acaciatable",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciatable",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/table/block/AcaciatableBlock.java",
+          "src/main/resources/assets/koftafurniture/models/item/acaciatable.json",
+          "src/main/resources/assets/koftafurniture/models/block/acaciatable.json",
+          "src/main/resources/assets/koftafurniture/blockstates/acaciatable.json"
+        ]
+      }
+    },
+    {
+      "name": "Sprucetable",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprucetable",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/koftafurniture/models/block/sprucetable.json",
+          "src/main/resources/assets/koftafurniture/blockstates/sprucetable.json",
+          "src/main/java/net/mcreator/table/block/SprucetableBlock.java",
+          "src/main/resources/assets/koftafurniture/models/item/sprucetable.json"
+        ]
+      }
+    },
+    {
+      "name": "Darkoakchair",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkoakchair",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/koftafurniture/blockstates/darkoakchair.json",
+          "src/main/java/net/mcreator/table/block/DarkoakchairBlock.java",
+          "src/main/resources/assets/koftafurniture/models/item/darkoakchair.json",
+          "src/main/resources/assets/koftafurniture/models/block/darkoakchair.json"
+        ]
+      }
+    },
+    {
+      "name": "Darkoakvslab",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkoakvslab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/koftafurniture/models/block/darkoakvslab.json",
+          "src/main/resources/assets/koftafurniture/models/item/darkoakvslab.json",
+          "src/main/java/net/mcreator/table/block/DarkoakvslabBlock.java",
+          "src/main/resources/assets/koftafurniture/blockstates/darkoakvslab.json"
+        ]
+      }
+    },
+    {
+      "name": "Oakvslab",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakvslab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/koftafurniture/models/block/oakvslab.json",
+          "src/main/resources/assets/koftafurniture/models/item/oakvslab.json",
+          "src/main/resources/assets/koftafurniture/blockstates/oakvslab.json",
+          "src/main/java/net/mcreator/table/block/OakvslabBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprucevslab",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprucevslab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/koftafurniture/models/block/sprucevslab.json",
+          "src/main/resources/assets/koftafurniture/models/item/sprucevslab.json",
+          "src/main/java/net/mcreator/table/block/SprucevslabBlock.java",
+          "src/main/resources/assets/koftafurniture/blockstates/sprucevslab.json"
+        ]
+      }
+    },
+    {
+      "name": "Acaciavslab",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciavslab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/table/block/AcaciavslabBlock.java",
+          "src/main/resources/assets/koftafurniture/models/block/acaciavslab.json",
+          "src/main/resources/assets/koftafurniture/blockstates/acaciavslab.json",
+          "src/main/resources/assets/koftafurniture/models/item/acaciavslab.json"
+        ]
+      }
+    },
+    {
+      "name": "Sprucebed",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprucebed",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/koftafurniture/blockstates/sprucebed.json",
+          "src/main/resources/assets/koftafurniture/models/item/sprucebed.json",
+          "src/main/java/net/mcreator/table/block/SprucebedBlock.java",
+          "src/main/resources/assets/koftafurniture/models/block/sprucebed.json"
+        ]
+      }
+    },
+    {
+      "name": "Acaciabed",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciabed",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/koftafurniture/models/block/acaciabed.json",
+          "src/main/java/net/mcreator/table/block/AcaciabedBlock.java",
+          "src/main/resources/assets/koftafurniture/blockstates/acaciabed.json",
+          "src/main/resources/assets/koftafurniture/models/item/acaciabed.json"
+        ]
+      }
+    },
+    {
+      "name": "Oakbed1",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakbed_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/koftafurniture/models/item/oakbed_1.json",
+          "src/main/resources/assets/koftafurniture/blockstates/oakbed_1.json",
+          "src/main/resources/assets/koftafurniture/models/block/oakbed_1.json",
+          "src/main/java/net/mcreator/table/block/Oakbed1Block.java"
+        ]
+      }
+    },
+    {
+      "name": "Sofared",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_sofa",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/koftafurniture/models/block/dark_oak_sofa.json",
+          "src/main/java/net/mcreator/table/block/SofaredBlock.java",
+          "src/main/resources/assets/koftafurniture/blockstates/dark_oak_sofa.json",
+          "src/main/resources/assets/koftafurniture/models/item/dark_oak_sofa.json"
+        ]
+      }
+    },
+    {
+      "name": "KoftaFurniture",
+      "type": "tab",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kofta_furniture",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Acaciasofa",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciasofa",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/koftafurniture/models/block/acaciasofa.json",
+          "src/main/java/net/mcreator/table/block/AcaciasofaBlock.java",
+          "src/main/resources/assets/koftafurniture/models/item/acaciasofa.json",
+          "src/main/resources/assets/koftafurniture/blockstates/acaciasofa.json"
+        ]
+      }
+    },
+    {
+      "name": "Sprucesofa",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprucesofa",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/koftafurniture/models/item/sprucesofa.json",
+          "src/main/java/net/mcreator/table/block/SprucesofaBlock.java",
+          "src/main/resources/assets/koftafurniture/blockstates/sprucesofa.json",
+          "src/main/resources/assets/koftafurniture/models/block/sprucesofa.json"
+        ]
+      }
+    },
+    {
+      "name": "Oaksofa",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oaksofa",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/table/block/OaksofaBlock.java",
+          "src/main/resources/assets/koftafurniture/models/item/oaksofa.json",
+          "src/main/resources/assets/koftafurniture/blockstates/oaksofa.json",
+          "src/main/resources/assets/koftafurniture/models/block/oaksofa.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.koftafurniture.acaciasofa": "Acacia Sofa",
+      "block.koftafurniture.sprucetable": "Spruce Table",
+      "block.koftafurniture.acaciavslab": "Acacia Vertical Slab",
+      "block.koftafurniture.sprucevslab": "Spruce Vertical Slab",
+      "block.koftafurniture.sprucesofa": "Spruce Sofa",
+      "block.koftafurniture.dark_oak_sofa": "Dark Oak Sofa",
+      "block.koftafurniture.oakvslab": "Oak Vertical Slab",
+      "block.koftafurniture.oakbed_1": "Oak Bed",
+      "block.koftafurniture.acaciatable": "Acacia Table",
+      "block.koftafurniture.sprucebed": "Spruce Bed",
+      "block.koftafurniture.acaciabed": "Acacia Bed",
+      "block.koftafurniture.darkoakchair": "Dark Oak Chair",
+      "block.koftafurniture.darkoakbed": "Dark Oak Bed",
+      "block.koftafurniture.darkoakvslab": "Dark Oak Vertical Slab",
+      "block.koftafurniture.oaktable": "Oak Table",
+      "block.koftafurniture.darkoaktable": "Dark Oak Table",
+      "item_group.koftafurniture.kofta_furniture": "Kofta Furniture",
+      "block.koftafurniture.oaksofa": "Oak Sofa"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "koftafurniture",
+    "modName": "Kofta Furniture Mod",
+    "version": "1.0.0",
+    "description": "By Koftatech",
+    "author": "KOFTATECH",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.4",
+    "credits": "Created using mod maker MCreator",
+    "modElementsPackage": "net.mcreator.table",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300224119
+}

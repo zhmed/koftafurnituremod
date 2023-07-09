@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "spruce_planks",
+        "1": "spruce_log",
+        "2": "stripped_dark_oak_log",
+        "4": "red",
+        "5": "bedpillow",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

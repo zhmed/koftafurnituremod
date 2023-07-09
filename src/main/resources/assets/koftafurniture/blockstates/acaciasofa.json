@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "koftafurniture:block/acaciasofa"
+    },
+    "facing=east": {
+      "model": "koftafurniture:block/acaciasofa",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "koftafurniture:block/acaciasofa",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "koftafurniture:block/acaciasofa",
+      "y": 270
+    }
+  }
+}

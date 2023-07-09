@@ -1,0 +1,9 @@
+{
+  "parent": "koftafurniture:custom/oak_vslab",
+  "textures": {
+    "all": "koftafurniture:block/oak_planks",
+    "particle": "koftafurniture:block/oak_planks",
+    "0": "koftafurniture:block/oak_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "koftafurniture:block/darkoakvslab"
+    },
+    "facing=east": {
+      "model": "koftafurniture:block/darkoakvslab",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "koftafurniture:block/darkoakvslab",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "koftafurniture:block/darkoakvslab",
+      "y": 270
+    }
+  }
+}

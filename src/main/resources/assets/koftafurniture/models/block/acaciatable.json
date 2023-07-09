@@ -1,0 +1,12 @@
+{
+  "parent": "koftafurniture:custom/acacia_table",
+  "textures": {
+    "all": "koftafurniture:block/acacia_planks",
+    "particle": "koftafurniture:block/acacia_planks",
+    "0": "koftafurniture:block/acacia_planks",
+    "1": "koftafurniture:block/acacia_log",
+    "2": "koftafurniture:block/stripped_dark_oak_log",
+    "missing": "koftafurniture:block/"
+  },
+  "render_type": "solid"
+}

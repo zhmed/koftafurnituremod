@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "acacia_planks",
+        "1": "acacia_log",
+        "2": "stripped_acacia_log",
+        "4": "red",
+        "5": "bedpillow",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

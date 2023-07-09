@@ -1,0 +1,14 @@
+{
+  "parent": "koftafurniture:custom/oak_bed1",
+  "textures": {
+    "all": "koftafurniture:block/oak_planks",
+    "particle": "koftafurniture:block/oak_planks",
+    "0": "koftafurniture:block/oak_planks",
+    "1": "koftafurniture:block/oak_log",
+    "2": "koftafurniture:block/stripped_oak_log",
+    "4": "koftafurniture:block/red",
+    "5": "koftafurniture:block/bedpillow",
+    "missing": "koftafurniture:block/"
+  },
+  "render_type": "solid"
+}

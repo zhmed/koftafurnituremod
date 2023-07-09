@@ -1,0 +1,12 @@
+{
+  "parent": "koftafurniture:custom/oak_sofa",
+  "textures": {
+    "all": "koftafurniture:block/oak_planks",
+    "particle": "koftafurniture:block/oak_planks",
+    "0": "koftafurniture:block/oak_planks",
+    "2": "koftafurniture:block/stripped_oak_log",
+    "1_6": "koftafurniture:block/red_wool",
+    "16": "koftafurniture:block/oak"
+  },
+  "render_type": "solid"
+}

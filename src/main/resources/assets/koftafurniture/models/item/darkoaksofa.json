@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "koftafurniture:item/textureitem"
+  },
+  "render_type": "translucent"
+}

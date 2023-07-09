@@ -1,0 +1,12 @@
+{
+  "parent": "koftafurniture:custom/dark_oak_table",
+  "textures": {
+    "all": "koftafurniture:block/dark_oak_planks",
+    "particle": "koftafurniture:block/dark_oak_planks",
+    "0": "koftafurniture:block/dark_oak_planks",
+    "1": "koftafurniture:block/dark_oak_log",
+    "2": "koftafurniture:block/stripped_dark_oak_log",
+    "missing": "koftafurniture:block/stripped_dark_oak_log"
+  },
+  "render_type": "solid"
+}

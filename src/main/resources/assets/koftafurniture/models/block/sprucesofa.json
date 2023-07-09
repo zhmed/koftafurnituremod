@@ -1,0 +1,12 @@
+{
+  "parent": "koftafurniture:custom/spruce_sofa",
+  "textures": {
+    "all": "koftafurniture:block/spruce_planks",
+    "particle": "koftafurniture:block/spruce_planks",
+    "0": "koftafurniture:block/spruce_planks",
+    "2": "koftafurniture:block/stripped_spruce_log",
+    "1_6": "koftafurniture:block/red_wool",
+    "16": "koftafurniture:block/spruce"
+  },
+  "render_type": "solid"
+}
